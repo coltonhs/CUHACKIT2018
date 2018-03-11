@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRTK/Examples/002_Controller_Events.unity
+  isLoaded: 1
+  isActive: 1
